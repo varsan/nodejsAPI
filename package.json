@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varsan/nodejsAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varsan/nodejsAPI/issues"
+  },
+  "homepage": "https://github.com/varsan/nodejsAPI#readme",
+  "dependencies": {
+    "mongodb": "^3.5.6"
+  }
+}
