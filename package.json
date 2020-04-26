@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/varsan/nodejsAPI#readme",
   "dependencies": {
-    "express": "^4.17.1",
     "mongodb": "^3.5.6"
   }
 }
